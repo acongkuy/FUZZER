@@ -1,23 +1,6 @@
 
-## `README.md` Fuzzer Tool
 
-```markdown
-# Fuzzer Tool
-
-This Fuzzer Tool is designed for **security testing** of web applications using a **fuzzing** technique to detect vulnerabilities such as SQL Injection, XSS, and more.
-
-## Installation
-
-Follow the steps below to install and run the **Fuzzer Tool**.
-
-### 1. **Clone the Repository**
-
-Clone this repository to your local machine:
-
-```bash
-git clone https://github.com/username/repo-name.git
-cd repo-name
-```
+### 1. **Download ZIP!!!**
 
 ### 2. **Install Dependencies**
 
